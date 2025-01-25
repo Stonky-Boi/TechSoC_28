@@ -1,7 +1,6 @@
 #include <iostream>
 using namespace std;
 
-// variables used are a,b,c,d,D and a1,a2,b1,b2,c1,c2,x1,x2
 float square_root(float input)
 {
     if (input >= 0)
