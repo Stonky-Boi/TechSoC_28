@@ -1,6 +1,7 @@
 # TechSoC-28
 ![GitHub Created At](https://img.shields.io/github/created-at/Stonky-Boi/TechSoc_28_PS)
 ![GitHub contributors](https://img.shields.io/github/contributors/Stonky-Boi/TechSoC_28_PS)
+![GitHub License](https://img.shields.io/github/license/Stonky-Boi/TechSoc_28_PS)
 
 Welcome to my solutions for the TechSoC-28 problem statements! Below, you'll find detailed descriptions and implementations for each task.
 
